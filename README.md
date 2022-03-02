@@ -1,4 +1,4 @@
 # conflict-resolution
-- this a readme.sdfs 
-- its my read me sdfsa
-- its awesome dfsfsdf
+this is a cool readme.
+this is my readme, not yours jkhdsfj
+its an awesome readme jlkfjdkfk
